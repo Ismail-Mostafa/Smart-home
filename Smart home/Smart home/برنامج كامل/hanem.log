@@ -1,0 +1,25 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo4 -N"F:\Smart home\»—‰«„Ã ﬂ«„·\hanem.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"F:\Smart home\»—‰«„Ã ﬂ«„·\" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"F:\»—‰«„Ã ﬂ«„·\" -SP"E:\»—‰«„Ã ﬂ«„·\" -SP"D:\»—‰«„Ã ﬂ«„·\" -SP"C:\Users\arabiye\Desktop\New folder (4)\" -SP"C:\Users\kamal\Desktop\New folder (4)\" -SP"D:\hanem\" "hanem.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC_A_C.mcl" "__Lib_EEPROM.mcl" "__Lib_FLASH_RW.mcl" "__Lib_I2C_c34.mcl" "__Lib_PWM_c21.mcl" "__Lib_SPI_c345.mcl" "__Lib_UART_c67.mcl" "__Lib_PortExpander.mcl" "__Lib_CANSPI.mcl" "__Lib_CF.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_RS485.mcl" "__Lib_T6963C.mcl" "__Lib_SPIGlcd.mcl" "__Lib_SPILcd.mcl" "__Lib_SPILcd8.mcl" "__Lib_SPIT6963C.mcl" "__Lib_EthEnc28j60.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Program Files\Mikroelektronika\mikroC PRO for PIC\defs'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Program Files\Mikroelektronika\mikroC PRO for PIC\Uses\P16'	 
+warning: 0	1501	Specified search path does not exist: 'F:\»—‰«„Ã ﬂ«„·'	 
+warning: 0	1501	Specified search path does not exist: 'E:\»—‰«„Ã ﬂ«„·'	 
+warning: 0	1501	Specified search path does not exist: 'D:\»—‰«„Ã ﬂ«„·'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\arabiye\Desktop\New folder (4)'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\kamal\Desktop\New folder (4)'	 
+warning: 0	1501	Specified search path does not exist: 'D:\hanem'	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 125 ms	 
+diagnostics: 0	122	Compilation Started	hanem.c
+warning: 28	1503	Result is not defined in function: 'interrupt'	hanem.c
+warning: 53	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	hanem.c
+hint: 34	1163	Variable 'invalid' has been declared, but not used	hanem.c
+hint: 38	1163	Variable 'g' has been declared, but not used	hanem.c
+warning: 185	1503	Result is not defined in function: 'main'	hanem.c
+diagnostics: 185	123	Compiled Successfully	hanem.c
+diagnostics: 0	127	All files Compiled in 187 ms	 
+hint: 0	1144	Used RAM (bytes): 107 (30%)  Free RAM (bytes): 245 (70%)	Used RAM (bytes): 107 (30%)  Free RAM (bytes): 245 (70%)
+hint: 0	1144	Used ROM (program words): 1740 (21%)  Free ROM (program words): 6452 (79%)	Used ROM (program words): 1740 (21%)  Free ROM (program words): 6452 (79%)
+diagnostics: 0	125	Project Linked Successfully	hanem.mcppi
+diagnostics: 0	128	Linked in 312 ms	 
+diagnostics: 0	129	Project 'hanem.mcppi' completed: 748 ms	 
+diagnostics: 0	103	Finished successfully: 09 Jul 2012, 19:30:24	hanem.mcppi
